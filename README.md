@@ -1,2 +1,4 @@
-# Download_papers_with_python
-Download papers using doi number and sci-hub
+# Download papers with python.
+Download papers using doi number and sci-hub libraries.
+
+In this code i used the SciDownl library to download a list of papers using theirs dois.
